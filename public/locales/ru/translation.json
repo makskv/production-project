@@ -2,5 +2,7 @@
   "language": "English",
   "pageNotFound": "Страница не найдена",
   "unexpectedError": "Произошла непредвиденная ошибка",
-  "reloadPage": "Обновить странциу"
+  "reloadPage": "Обновить странциу",
+  "aboutPage": "О сайте",
+  "mainPage": "Главная"
 }

@@ -3,5 +3,7 @@
   "pageNotFound": "Page not found",
   "unexpectedError": "Unexpected error was happened",
   "reloadPage": "Reload the page",
-  "throwError": "Throw"
+  "throwError": "Throw",
+  "aboutPage": "About",
+  "mainPage": "Main"
 }
