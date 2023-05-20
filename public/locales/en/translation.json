@@ -1,4 +1,7 @@
 {
   "language": "Русский",
-  "pageNotFound": "Page not found"
+  "pageNotFound": "Page not found",
+  "unexpectedError": "Unexpected error was happened",
+  "reloadPage": "Reload the page",
+  "throwError": "Throw"
 }
