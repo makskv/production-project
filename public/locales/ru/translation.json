@@ -1,9 +1,10 @@
 {
-  "language": "English",
+  "language": "Русский",
+  "shortLanguage": "Ру",
   "pageNotFound": "Страница не найдена",
   "unexpectedError": "Произошла непредвиденная ошибка",
   "reloadPage": "Обновить странциу",
   "aboutPage": "О сайте",
-  "mainPage": "Главная",
-  "toggle": "Переключить"
+  "throwError": "Триггер ошибки",
+  "mainPage": "Главная"
 }

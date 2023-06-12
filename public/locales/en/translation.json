@@ -1,10 +1,10 @@
 {
-  "language": "Русский",
+  "language": "English",
+  "shortLanguage": "En",
   "pageNotFound": "Page not found",
   "unexpectedError": "Unexpected error was happened",
   "reloadPage": "Reload the page",
   "throwError": "Throw",
   "aboutPage": "About",
-  "mainPage": "Main",
-  "toggle": "toggle"
+  "mainPage": "Main"
 }
